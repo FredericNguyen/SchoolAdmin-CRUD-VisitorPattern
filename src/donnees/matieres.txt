@@ -1,0 +1,5 @@
+Oop;Programmation Oriente Objet;3
+Db1;Base de données I;3
+Algo;Algorithmes et structure de données;3
+Web;Service Web;3
+Math;Mathématiques pour l'informatique;2

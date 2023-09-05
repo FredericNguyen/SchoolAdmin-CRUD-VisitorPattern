@@ -1,0 +1,11 @@
+Etd1;Db1;85;Oop;80;Math;79;Algo;80;Web;80
+Etd2;Db1;90;Oop;95;Math;85;Algo;89;Web;92
+Etd3;Db1;78;Oop;90;Math;82;Algo;72;Web;88
+Etd4;Db1;85;Oop;85;Math;82;Algo;80;Web;90
+Etd5;Db1;92;Oop;90;Math;90;Algo;89;Web;95
+Etd6;Db1;93;Oop;94;Math;95;Algo;95;Web;98
+Etd7;Db1;80;Oop;89;Math;87;Algo;77;Web;85
+Etd8;Db1;78;Oop;88;Math;79;Algo;74;Web;83
+Etd9;Db1;75;Oop;85;Math;75;Algo;73;Web;82
+Etd10;Db1;96;Oop;95;Math;87;Algo;93;Web;96
+Etd11;Db1;82;Oop;89;Math;80;Algo;87;Web;89

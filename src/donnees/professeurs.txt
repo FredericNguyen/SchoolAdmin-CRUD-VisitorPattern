@@ -1,0 +1,5 @@
+Langlais;Pierre;5;10;1960;(514)777-8888;Doctorat;Informatique;Udem;1990;Oop;Algo
+Bonastre;Olivier;3;8;1965;(438)666-8888;Doctorat;Informatique;Paris 6;1993;Web;Db1
+Deshamps;Jean;5;5;1990;(514)555-8282;Doctorat;Informatique;Uqam;2020;Oop;Web
+Khalil;Samir;8;11;1988;(514)333-5555;Doctorat;Informatique;Ul;2019;Db1;Algo
+Salim;Alex;10;11;1991;(514)678-6789;Maitrise;Mathematique;Chicoutomi;2018;math
